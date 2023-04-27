@@ -5,6 +5,7 @@
 
 body {
     background-color: #DEE2E6;
+    color: #212529;
 }
 
 .contact {
@@ -39,8 +40,18 @@ body {
 .top-texto {
     text-align: center;
     margin: 50px 300px;
+    font-size: 20px;
 }
 
 .middle {
-    margin: 50px;
+    padding: 70px 50px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.list {
+    margin-left: 50px;
 }
