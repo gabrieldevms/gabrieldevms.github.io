@@ -19,28 +19,29 @@ body {
 }
 
 .top-content {
+    max-width: 50%;
+    margin: auto;
     text-align: center;
-    margin: 50px;
-    display: inline-block;
     vertical-align: middle;
+
 }
 
 .meuNome {
     text-align: center;
     font-size: 4rem;
+    margin-bottom: 50px;
 }
 
 .minhaFoto {
     border-radius: 100%;
-    margin-left: 50px;
-    max-width: 50%;
     align-items: center;
+    margin-bottom: 50px;
 }
 
 .top-texto {
     text-align: center;
-    margin: 50px 300px;
     font-size: 20px;
+    margin-bottom: 50px;
 }
 
 .middle {
