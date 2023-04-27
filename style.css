@@ -56,3 +56,12 @@ h2 {
 .list {
     margin-left: 50px;
 }
+
+li {
+    margin: 10px;
+}
+
+.bottom {
+    text-align: center;
+    margin: 20px;
+}
