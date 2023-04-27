@@ -1,0 +1,16 @@
+body {
+
+    background-color: #DEE2E6;
+}
+.meuNome {
+    text-align: center;
+}
+
+.minhaFoto {
+    border-radius: 100%;
+
+}
+
+.descricao {
+    text-align: center;
+}
