@@ -15,7 +15,7 @@ body {
 }
 
 a {
-    margin: 0px;
+    margin: 10px;
 }
 
 .header {
@@ -48,7 +48,7 @@ a {
     margin-bottom: 50px;
 }
 
-.mid {
+.main {
    font-size: 1.5rem;
 }
 
@@ -60,10 +60,12 @@ h2 {
 
 .list {
     margin-left: 100px;
+    margin-top: 50px;
 }
 
 li {
-    margin: 20px;
+    margin-bottom: 40px;
+    list-style-type: none;
 }
 
 .footer {
