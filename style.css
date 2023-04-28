@@ -8,13 +8,13 @@ body {
     color: #212529;
 }
 
-.contact {
+.nav {
     text-align: right;
     background-color: #212529;
     padding: 10px;
 }
 
-.top {
+.header {
     margin-top: 50px;
 }
 
@@ -44,24 +44,31 @@ body {
     margin-bottom: 50px;
 }
 
-.middle {
-    padding: 70px 50px;
+.mid {
+   font-size: 1.5rem;
 }
 
 h2 {
     text-align: center;
     margin-bottom: 30px;
+    margin-top: 50px;
 }
 
 .list {
-    margin-left: 50px;
+    margin-left: 100px;
 }
 
 li {
     margin: 10px;
 }
 
-.bottom {
+.footer {
     text-align: center;
-    margin: 20px;
+    background-color: #212529;
+    padding: 10px;
+    margin-top: 100px;
+}
+
+#pfooter {
+    color: #DEE2E6;
 }
