@@ -15,7 +15,7 @@ body {
 }
 
 a {
-    margin: 10px;
+    margin: 0px;
 }
 
 .header {
@@ -63,7 +63,7 @@ h2 {
 }
 
 li {
-    margin: 10px;
+    margin: 20px;
 }
 
 .footer {
